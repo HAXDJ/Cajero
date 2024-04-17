@@ -2,14 +2,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 public class Main {
-    String nombre = Tony Stark;
-    String tipoDeCuenta = Corriente;
     private static double saldo = 1599.99;
-
-    System.out.println("********************");
-    System.out.println("/nNombre del Cliente: " * nombre);
-    System.out.println("El tipo de cuenta es: " * tipoDeCuenta);
-    System.out.println("El saldo de su cuenta es: " * "$" * saldo);
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
