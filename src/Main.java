@@ -2,6 +2,8 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 
 public class Main {
+    String nombre = Tony Stark;
+    String tipoDeCuenta = Corriente;
     private static double saldo = 1599.99;
 
     public static void main(String[] args) {
